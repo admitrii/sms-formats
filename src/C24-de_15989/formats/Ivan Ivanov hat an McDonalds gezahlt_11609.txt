@@ -1,4 +1,4 @@
-(.+?)\s+(?:\S+\s+)hat\s+(\d[\d\s.,]*)\s+(\S+)\s+an\s+(.+?)\s+gezahlt\.
+(\w+)(?:\s+\S+)\s+hat\s+(\d[\d\s.,]*)\s+(\S+)\s+an\s+(.+?)\s+gezahlt\.
 
 -----COLUMNS-----
 syncid;outcome;instrument;payee
